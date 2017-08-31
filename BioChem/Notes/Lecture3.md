@@ -26,12 +26,12 @@ pH = pKa + log([A]/[HA])
 + Range is usually +- 1.0 pKa
 + Tris = 8.1 pKa
 ## Chapter 3
-Read substitute chapter 3 from eLearning
-###1st & 2nd Laws of Thermodynamics
+Read substitute chapter 3 from eLearning 
+### 1st & 2nd Laws of Thermodynamics
 + Constant:
 	+ Volume
 	+ Pressure
-###Enthalpy & entropy
-###Gibbs free energy equations for reactions
-###Coupled reactions
-###ATP, how it works as the energy carrier of the cell
+### Enthalpy & entropy
+### Gibbs free energy equations for reactions
+### Coupled reactions
+### ATP, how it works as the energy carrier of the cell
