@@ -6,9 +6,9 @@ Bring a calculator for the exam!
 ### What are the pH Buffers of Life?
 + Principle buffers are phosphate groups
 ### pH Equations
-- [] Go over Strong Acid
-- [] Go over weak acid
-- [] Memorize Equations because they won't be given to you
+- [ ] Go over Strong Acid
+- [ ] Go over weak acid
+- [ ] Memorize Equations because they won't be given to you
 + Ka and pKa are inversely proportional
 + If titrating Henderson/halselboc
 """ 

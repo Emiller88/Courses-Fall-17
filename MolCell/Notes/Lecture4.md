@@ -68,7 +68,7 @@ One layer of the bilayer
 + Lumen(center) is hydrophilic
 + Being researched for drug delivery
 ## Formation of Pure Phospholipid Bilayers
-- [] Figure out what this is
+- [ ] Figure out what this is
 ## Lipid Classification
 ### Phosphglycerides
 + Hydrophobic tail - Fatty acid
@@ -80,8 +80,7 @@ One layer of the bilayer
 	+ Phosphatidyl serine
 	+ Phosphatidyl inositol
 ### Sphingolipids
-- [] Recognize
-+ Abundant in nervous tissue
+- [ ] Recognize
 ### Steriods
 + Synthesized from cholesterol
 + Non Polar
