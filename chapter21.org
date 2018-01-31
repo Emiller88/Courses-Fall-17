@@ -1,0 +1,317 @@
+* Chapter 21
+** Introduction 
+*** From 1% of sunlight 2x10^11 tons of CO2 is fixed per year
+*** Reverse of Gylcolsis
+*** Light energy is also used to fix N2 and assimilate sulfur compounds
+** General aspects of photosynthesis
+*** From prokaryotes to large trees they all do photosynthesis and there are several common features   
+*** Occurs in membranes
+** Light and Dark reactions
+*** If a cholorplast is in light but has no CO2 it will produce ATP NADPH and O2 THYLAKOID membrane NEEDED
+*** Dark reactions are CO2 fixing and are not light dependant
+*** Dark reactions occur in the *STROMA*
+*** Water is the electron source for NADPH and ATP
+    - In *Bacteria* the electron source can be H2S
+*** Light must exceed 219
+* Questions for Prof 
+  - Logic for energy transfer?
+* Chapter 21 Study Guide 
+** DONE Where does photosynthesis occurs in plants and bacteria?
+   CLOSED: [2018-01-29 Mon 22:37]
+   In membranes! (of the chloroplasts)
+** TODO Chloroplasts structure and function are very important.
+   - The inner membrane system is called the thylakoid membranes, which are flattened discs or sacs. There are three membrane-bound aqueous regions: stroma, intermembrane space (between inner and outer membrane), and interior of thylakoid membranes (thylakoid space or lumen).
+   - Chloroplasts contain DNA, RNA, and ribosomes. However, some functions are encoded by the nucleus.
+** DONE What are light and dark reactions?
+   CLOSED: [2018-01-29 Mon 22:41]
+   - Illuminated Chloroplasts will generate O2, NADPH, ATP without *CO2*
+     - In the /thylakoid membrane/
+   - Dark Reactions can be placed in the dark and fix CO2
+     - Occur in the /Stroma/
+     - Uses NADPH and ATP(From the Light Reactions)
+** TODO What are the products of photosynthesis and how are they made? What is the source of electrons?
+   - Products
+     - O_{2}
+     - 2 NADPH
+     - 2 H^{+}
+     - x ATP
+     - x H_{2}O
+   - Water is the electron source.
+   - Can be H2S in Bacteria
+** TODO What is chlorophyll? What is its function? What does it contain (in terms of metals, and functional groups)?
+   - Magnesium-containing substituted tetrapyrroles
+   - Absorb light
+   - Metals:
+     - Magnesium
+   - Long-alcohol called /phytol/
+   - Fifth five-membered ring
+** TODO What are fates of excited electrons?
+   - Heat loss (e– goes to lower state and increases vibrational energy of environment): S2 to S1
+   - Fluorescent light (at a longer, less energetic wavelength). This occurs only for saturating light.
+   - Resonance energy transfer (excitation of e– of neighboring molecule). This process permits energy transfer to one reactive site (described below). An exciton is said to be transferred. S1 to S1 state. Chlorophylls must be close for this to happen.
+   - Energy transduction. The more energetic molecule is a better electron donor (reducing agent). This is the transfer of light energy to chemical energy.
+** DONE What is a reactive center? 
+   CLOSED: [2018-01-29 Mon 22:45]
+   - There is a reactive center that contains 2 /chlorophyll a/ molecules. Most chlorophyll just transduce energy to the reactive center.
+** TODO What are the two photosystems and what are their functions? What is the Z scheme?
+   - PSI
+     - Absorption at 700 nm
+     - Does not evolve O2(Look up in book what this means)
+     - Uses ferrodoxins as terminal electron acceptors in the complex
+   - PSII
+     - Maximal absorption at 680nm
+     - Evolves O2
+     - Uses quinones as terminal electron acceptors
+   - Functions
+     - PSI
+       - Very strong reducing agent(meaning it's an *electron doner*) reduces NADP+ to NADPH(which is a strong reducing agent itself to give some reference)
+     - PSII
+       - Very Strong Oxidixing agent(meaning it's an *electron acceptor*)
+       - Transfers electrons to PSI. This pumps electrons via the ETC which can then be used for ATP Synthesis.
+** TODO What are the similarities between electron transport in oxidative phosphorylation and photosynthesis? What components are in common? 
+   - They use an electrochemical gradient
+** TODO Ferrodoxin shows up a lot. Why?
+   - Iron-sulfur protein
+   - Mediates electron transfer
+   - Involved in both Cyclic and noncyclic photophosphorylation
+** DONE What is the difference between cyclic and noncylic photophosphorylation? 
+   CLOSED: [2018-01-29 Mon 22:50]
+   - Differs bescause electron comes from P700 of PSI
+   - Has an additional protein /cytochrome b6/
+   - Recycles an electron from PSI to /Cyt F/
+   - 20 times slower than noncylic
+** DONE Where are protons pumped in the process? What steps, and into what compartments?
+   CLOSED: [2018-01-29 Mon 22:51]
+   - Pumped into the lumen through Cyt f
+   - Pumped out to the stroma through ATP Synthase
+** DONE How were chloroplasts used to demonstrate the chemiosmotic mechanism of ATP synthesis? 
+   CLOSED: [2018-01-29 Mon 22:51]
+   - Created an artificial pH gradient that was shown to be sufficient for ATP synthesis
+     - I guess they removed the hydrogen ions from the stroma 
+** TODO Carbon dioxide fixation. Which reactions incorporate CO2? What are the unique reactions of the Calvin-Benson cycle? Where are ATP and NADPH used?
+   - Which reactions incorporate CO2
+     - Ribulose biphosphate carboxylase
+       - RuBP -> 3-PG
+   - ATP is used in the Phosphoglyerate kinase reaction
+     - 3-PG -> BPG
+   - NADPH
+     - Glyceraldehyde-3-phosphate dehydrogenase
+     - BPG -> G-3-P
+** TODO What are the reactions of Rubisco? How is Rubisco activity controlled? 
+   - First step of the Calvin cycle
+   - Most abundant enzyme on Earth
+   - Substrates
+     - ribulose-1,5-bisphosphate
+     - CO2
+   - Can also catalyze a reaction with O2
+     - Products are 3PG & glycolate
+   - Very slow enzyme can only fix 3-10 CO2 molecules a second
+   - Responds to CO2 concentration
+   - Controlling of Activity
+     - High optimal pH(> 9.0)
+     - Moving of H+ ions into the thylakoid causes the outside to have a high pH.
+     - Mg++
+     - Rubisco activase
+** TODO How does light control CO2 fixation? Thioredoxin and ferrodoxin involvement is this control.
+   - Light
+     - Increases pH in the stroma, which in turn activates rubisco and rubisco activase and other key enzymes
+     - Light increases reducing power. Thioredoxin carries e-s between reduced ferrodoxin and NADPH.
+     - Increases Mg++ efflux from lumen to stroma. Activates FBPase, may be the rate limiting step in CO2 fixation.
+   - Thioredoxin
+     - Also reduces certain disulfide bonds in key enzymes(FBPase, SBPase, Ri-5-P kinase) this /activates/ them.
+     - Thioredoxin is a small protein.
+** TODO How do plants avoid the problem of the reaction of Rubisco with oxygen?
+   Tropical grasses incorporate 14CO2 into malate or aspartate instead of 3PG. Malate and aspartate act as a CO2 delivery system to take CO2 from the oxygen rich surface to the oxygen-poor interior. 
+** TODO How do bacteria avoid the problem of the reaction of Rubisco with oxygen? (see lecture notes, since this is not in the book)
+  - Rubisco problems are low affinity for CO2, low catalytic rate, O2 as substrate
+  - Carboxysomes concentrate CO2 100-1000X
+  - Cytoplasmic CO2 converted to HCO3-
+  - Carboxysome has carbonic anhydrase (HCO3- to CO2) and the CO2 saturates Rubisco
+  - Carboxysome prevents CO2 efflux and O2 influx
+ 
+
+#  LocalWords:  vibrational ferrodoxins acceptor rubisco
+* Chapter 25 Study Guide 
+** The nitrogen cycle: what are nitrate assimilation, nitrogen fixation, nitrification, denitrification?
+   - Nitrate assimilation 
+     - conversion of nitrate to ammonia. It occurs in plants, some fungi, and some bacteria.
+   - Nitrogen fixation 
+     - conversion of N₂ to ammonia. It occurs only in bacteria. Sometimes these bacteria associate with plants. This is an anaerobic process.
+   - Nitrification 
+     - Bacteria then can take the reduced nitrogen, as ammonia, and oxidize it. Nitrifying bacteria convert ammonia to nitrite and nitrate, and use the energy released for growth. This process is called nitrification because it makes the nitrogen more readily available to plants. Nitrate is more soluble than ammonia, and plants absorb it more quickly.
+   - Denitrification 
+     - conversion of nitrate to N₂, which is released to the atmosphere. It is done by denitrifying bacteria, which are very efficient. The function of this process is to provide bacteria with an electron acceptor other than oxygen for energy generation. This is an anaerobic process. Oxygen is a preferred electron acceptor, and shuts this off in E. coli. Furthermore, oxygen interfers with this process.
+** The steps of nitrate assimilation: how many electrons involved and what metals are involved? 
+   - First step is a two-electron reduction of nitrate to nitrite.
+     - Catalyzed by nitrate reductase
+   - Second step is a six-electron reduction of nitrite to ammonia
+     - Catalyzed by nitrite reductase
+   - MoCo is a cofactor for many hydroxylase-type reactions
+** What are the source of electrons? 
+   - Nitrate reductase gets electrons from photosythetically reduced ferrodoxin.
+** Nitrogen fixation and nitrogenase. What organisms do this? What are its requirements (reductant, energy, etc)? What are its components (the two protein components), and what do they do?
+   - Only bacterial cells do Nitrogen fixation because nitrogenase is only found in them.
+   - Requires 
+     - the enzyme nitrogenase 
+     - a strong reductant such as ferrodoxin
+     - ATP
+     - O₂ Free conditions
+   - Nitrogenase
+     - Fe-protein(Nitrogenase reductase)
+       - The reductase hydrolyzes two ATP per electon transferred
+         - 16 per N₂
+       - The ATP is used the overcome the activation energy to break the N2 bonds.
+       - Has a single 4Fe-4S cluster
+       - *VERY* O₂ sensitive
+     - MoFe-protein(Nitrogenase)
+       - ⍺2𝝱2 protein
+       - Each ⍺𝝱 dimer contains: 
+         - a P-cluster(8Fe-7S cluster – see Fig 25.5a)
+         - FeMo-cofactor(7Fe-1Mo-9S cluster)
+       - O2 sensitive
+** What factors control and affect its activity? 
+*** 2 Factors
+    - ADP *inhibits*
+    - NH₄⁺ inactivates a transciptional activator
+    - *SOME* Organisms have a third mechanism
+      - ADP-Ribosylation of the nitrogenase reductase subunit 
+** What pathways assimilate ammonia and what are the products? What are the differences between the two pathways. What is the reductant?
+   - glutamate dehydrogenase (GDH)
+     - Catalyzes the reductive amination of ⍺-ketoglutarate
+       - Uses NADH as the reducing agent
+     - NADPH is in excess over NADP
+     - Reaction goes in the synthetic Direction because of this
+     - Degradative GDHs
+       - Will use NAD
+         - NAD is in slight excess of NADH
+       - Reaction with NAD as the cofactor degrades glutamate
+       - Activated by ADP
+       - Inhibited by GTP
+       - Suggests its function is to provide /citric acid cycle/ intermediates for *energy*
+   - glutamine synthetase (GS)
+     - Catalyzes the amidation of glutamate
+       - Makes glutamic acid AKA glutamine
+     - Phosphorylates the carboxyl group
+     - General theme carboxyl group will be activated before a modification
+   - Pathways
+     - GDH
+       - Synthesizes glutamate & glutamine by the actions of GDH and GS
+       - GDH has a high Km for ammonia(~2 mM in E. coli)
+       - GS has a much lower Km(~0.1 mM)
+       - High ammonia(not common in nature) GDH can assimilate ammonia into glutamate
+       - GS can assimilate ammonia into glutamine
+     - GS-glutamate synthesizes pathway
+       - Occurs when ammonia is low(this is normal)
+       - First synthesizes glutamine via GS from ammonia and glutamate
+       - /Glutamate synthase/ uses glutamine as a nitrogen donor for the formation of glutamate
+       - Difference is *ENERGY CONSUMPTION*
+       - GDH does not need ATP for glutamate synthesis
+       - GS-glutamate *needs* ATP
+         - /E. coli/ uses 10% of the cells total energy requirements
+** Know the reaction mechanism of glutamine synthetase since is is found for many enzymes.
+   - dodocamer ⍺₁₂
+   - Two stacks of hexagons
+   - Active site is at the subunit interfaces within each hexagon
+** What are the intracellular nitrogen donors, and their relative quantitative importance.
+   - Glutamate - 75% of the cells nitrogen
+     - Assimilates 75% of ammonia
+   - Glutamine - 25%
+     - with low ammonia GS assimilates 100% and converts 75% of glutamine to glutamate
+** How is glutamine synthetase controlled? 
+   - Feedback inhibition
+   - Covalent modification
+   - Gene expression
+** Principles of feedback inhibition, the covalent modification, and gene expression controls: what metabolites are involved? (I will not ask specific inhibitors, but what properties are shared by the inhibitors.) 
+** What is the effect of high and low glutamine on these controls?
+   - High Glutamine results in PIIA
+     - interfers with phosphate transfer from NRII to NRI
+       - NRI~P is a transcriptional activator
+         - Unphosphorylated form is inactive
+           - Gene for GS is not expressed.
+   - Low glutamine
+     - Results in PIID formation
+       - Move phosphate from NRII to NRI
+         - NRI~P is a transcriptional activator
+           - Turns on gene for GS
+** Transaminations: nitrogen donor, cofactor, reversibility
+   - Nitrogen donor 
+     - Where the amino group is transferred from
+       - Usually Glutamate
+   - Cofactor
+     - Pyridoxal phosphate is an essential cofactor
+       - pyridoxamine donates the amino group
+   - Reversibility
+     - Easily reversible Glutamate is almost always in exxess which determines the direction of the reaction
+** Amino acid classifications: families, and members of each family
+*** ⍺-ketoglutarate Family 
+    - Glutamate
+    - Glutamine
+    - Proline
+    - Arginine
+    - (In Fungi) Lysine
+*** Aspartate Family
+    - Aspartate
+    - asparagine
+    - (In Bacteria) lysine
+    - Methionine
+    - Threonine
+    - Isoleucine*
+*** Pyruvate Family
+    - Alanine
+    - valine
+    - Leucine
+    - Isoleucine*
+*** 3-phosphoglycerate Family
+    - Serine
+    - Glycine
+    - Cysteine
+    - Sulfur assimilation
+*** Aromatic Amino Acids 
+    - All derived from chorimsate
+    - Phenylalanine
+    - Tyrosine
+    - Tryptophan
+    - Histadine
+** Essential and nonessential amino acids (what does this mean), difference between plants, bacteria and higher animals. Do not memorize the amino acids for this classification.
+   - Essential Amino acids are the AAs that the organisms can not produce itself
+     - Must get them through Diet
+   - Nonessential means that they can produce the AAs through pathways 
+** Similarites in the pathways of arginine and proline synthesis, cyclization and its prevention, mechanism of activation, biological reductant.
+   - Similarites
+     - Both follow up to Ornithine
+   - Cyclization
+     - First step of Arginine synthesis is N-acylation
+       - Blocks Cyclization
+     - Cyclization of the aldehyde and ⍺-amino group
+*** Biological Reductant
+** Carbamoyl-P synthetase, precursor for which compounds, most unusual aspect of reaction. How many enzymes in higher animals, and where are they located.
+   - Carbamoyl-P always uses NH4+
+     - Except in /E. Coli/ gln
+   - Unusual because it consumes 2 ATPs
+   - Mitochondrial enzymes in Higher organisms
+   - /E. Coli/ uses *one* CPS
+** Final steps in arginine synthesis: common reactions with urea cycle.
+   - Mechanism to remove nitrogen
+   - aminotransferase deaminates glutamate
+   - Nitrogen can be either ammonia or aspartate
+     - Ammonia and Bicardonate are incorporated in carbamoyl-P
+** Urea cycle: which steps in mitochondria, its function, how nitrogen enters the cycle, what tissue has enzymes of the cycle. 
+   - Carbamoylation occurs in the mitochondria
+     - Carbamoyl-P is created in the mitochondria
+   - Ammonia enters
+     - In Carbamoyl-P
+     - Aspartate
+   - Liver cells contain Enzymes for Urea cycle
+** Asparate family: similarities with glutamate (α-ketoglutarate family), asparagine synthesis (mechanism of activation), control of first reaction of common pathway
+   - Similar to glutamate because almost all the chemistry is at the terminal carboxyl
+   - Asparagine is synthesized similar GS Reaction
+     - 
+** Methionine synthesis, how sulfur is added, vitamins and cofactors involved, mechanisms that result in accumulation of homocysteine, methyl group addition, transsulfuration pathway.
+** Pyruvate family: alanine synthesis, precursors for branched chain amino acids, role of thiamine pyrophosphate and of shared enzymes, leucine synthesis pathway mimicks what pathway.
+** 3-phosphoglycerate family: serine, glycine, and cysteine synthesis; synthesis of C1 intermediates, sulfur assimilation (what compound is environmental sulfur source, what is actually incorporated into amino acids). What is the major donor for sulfur in various biosyntheses.
+** Aromatic family: precursors, endproduct of common pathway, regulation of first reaction, (can ignore tryptophan synthesis, except know which compounds are required for it synthesis), conversion of phenylalanine and tyrosine, and disease that results from problems with the interconversion.
+** Histidine synthesis: precursors, role of ATP
+** The logic of herbicides (what type of pathways targeted), but knowledge of specific herbicides is not required.
+** Amino acid degradation: what is difference between glycogenic and ketogenic amino acids, how nitrogen is removed, and where does it go, alkaptonuria and how are symptoms prevented.
+** Structures to be able to recognize: first intermediate in pathways of synthesis of proline (glutamyl-P), arginine (N-acetylglutamate), asparagine (aspartate), lysine-threonine-methionine common pathway (aspartyl-P), methionine (homoserine), alanine (pyruvate), serine (3-phosphohydroxypyruvate), cysteine (O-acetylserine), glycine (serine), and histidine (N1-5’-phosphoribosyl-ATP). 
+** The last intermediate in synthesis of proline (1-pyrroline-1-carboxylate), arginine (argininosuccinate), methionine (homocysteine), serine (3-phosphoserine), phenylalanine (phenylpyruvate), tyrosine (4-hydroxyphenylpyruvate), tryptophan (indole), and histidine (histidinol).
